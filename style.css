@@ -1,15 +1,28 @@
-#cabecalho{
+#cabecalho {
     display: flex;
     background-color: aqua;
     border-radius: 25px;
     font-family: monospace;
     font-size: x-large;
-    margin-right: 700px;
-    .txt{
-        margin-top: 90px;
+    margin-right: 00px;
 
+    .txt {
+        margin-top: 90px;
+        color:rgb(18, 18, 128);
+        margin-right: 550px;
+
+        p {
+            color: aliceblue;
+            background-color: rgb(18, 18, 128);
+            border-radius: 20px;
+        }
     }
+    .pedidos_recentes{
+
+    display: flex;
 }
+}
+
 
 body {
     background-color: rgb(255, 255, 255);
