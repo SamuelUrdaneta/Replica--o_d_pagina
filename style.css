@@ -4,3 +4,10 @@
     border-radius: 25px;
     font
 }
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 30px;
+    padding: 0px;
+
+}
