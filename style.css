@@ -1,3 +1,6 @@
 #cabeçalho{
+    display: flex;
     background-color: aqua;
+    border-radius: 25px;
+    font
 }
