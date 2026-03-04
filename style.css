@@ -1,6 +1,12 @@
-#cabeçalho{
+#cabecalho{
     display: flex;
     background-color: aqua;
     border-radius: 25px;
-    font
+    font-family: monospace;
+    font-size: x-large;
+    margin-right: 700px;
+    .txt{
+        margin-top: 90px;
+
+    }
 }
